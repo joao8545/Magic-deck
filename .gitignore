@@ -9,6 +9,7 @@ __pycache__/
 # Files used in the script
 *.csv
 *.xls
+*.xlsx
 *.txt
 
 # Distribution / packaging
